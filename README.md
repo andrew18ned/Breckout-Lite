@@ -1,3 +1,4 @@
-# Game_breckout_lite
-Моя гра Лапай Дошкою
-Щоб запустити гру треба запустити цей код в терміналі ввести: python app.py
+# My game Breckout Lite
+
+## Run
+python app.py
